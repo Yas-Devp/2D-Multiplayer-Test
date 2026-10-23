@@ -1,0 +1,7 @@
+backend/node_modules/
+backend/.env
+backend/dist/
+backend/build/
+
+.DS_Store
+Thumbs.db
