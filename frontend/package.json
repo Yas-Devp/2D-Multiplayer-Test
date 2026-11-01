@@ -1,0 +1,29 @@
+{
+  "name": "2d_tests",
+  "version": "1.0.0",
+  "description": "2d tests sandbox",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yas-Devp/2D_Tests.git"
+  },
+  "keywords": [
+    "2d",
+    "top-down",
+    "game",
+    "map"
+  ],
+  "author": "Yas-Devp[loris yas]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yas-Devp/2D_Tests/issues"
+  },
+  "homepage": "https://github.com/Yas-Devp/2D_Tests#readme",
+  "dependencies": {
+    "phaser": "^4.2.1"
+  }
+}

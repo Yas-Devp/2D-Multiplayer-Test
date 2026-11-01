@@ -3,5 +3,11 @@ backend/.env
 backend/dist/
 backend/build/
 
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+frontend/build/
+
+
 .DS_Store
 Thumbs.db
